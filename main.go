@@ -3,7 +3,7 @@ package main
 import (
 	"flag"
 
-	"github.com/KeisukeYamashita/terraform-provider-butane/butane"
+	"github.com/ties-v/terraform-provider-butane/butane"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 

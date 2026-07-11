@@ -1,5 +1,5 @@
 version := 99.99.0
-provider_macos_path = registry.terraform.io/KeisukeYamashita/butane/$(version)/darwin_arm64/
+provider_macos_path = registry.terraform.io/ties-v/butane/$(version)/darwin_arm64/
 
 .PHONY: build
 build: 
