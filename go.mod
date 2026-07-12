@@ -1,6 +1,6 @@
-module github.com/KeisukeYamashita/terraform-provider-butane
+module github.com/ties-v/terraform-provider-butane
 
-go 1.25.8
+go 1.26.4
 
 require (
 	github.com/coreos/butane v0.29.0
