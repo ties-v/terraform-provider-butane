@@ -4,6 +4,7 @@ go 1.26.4
 
 require (
 	github.com/coreos/butane v0.29.0
+	github.com/coreos/vcontext v0.0.0-20231102161604-685dc7299dc5
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.40.1
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -27,7 +28,6 @@ require (
 	github.com/coreos/go-semver v0.3.1 // indirect
 	github.com/coreos/go-systemd/v22 v22.7.0 // indirect
 	github.com/coreos/ignition/v2 v2.26.0 // indirect
-	github.com/coreos/vcontext v0.0.0-20231102161604-685dc7299dc5 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/fatih/color v1.18.0 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect

@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
-	"github.com/ties-v/terraform-provider-butane/butane"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
+	"github.com/ties-v/terraform-provider-butane/butane"
 )
 
 //go:generate go run github.com/hashicorp/terraform-plugin-docs/cmd/tfplugindocs
